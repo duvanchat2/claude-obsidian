@@ -5,11 +5,21 @@ updated: 2026-06-05
 
 # Contexto Reciente
 
-_Este archivo se actualiza con cada sesión. Máx ~500 palabras._
+## 2026-06-05 — Setup del brain + mapeo de proyectos
 
-## 2026-06-05 — Setup inicial
+**Quién:** Duván Enrique Gaitán Espinosa — solopreneur, creador de contenido IA, profesor
 
-- Vault creado con metodología PARA
-- Modo configurado: `para`
-- Estructura base: Projects / Areas / Resources / Archives
-- Próximo paso: agregar tus proyectos actuales
+**Stack principal:** Claude Code + Notion + Instagram + Google Sheets + Contabo VPS
+
+**Proyectos activos:**
+- @byduvan_ai (Content OS en Notion, pipeline automatizado de reels IA)
+- Content Ideas AI Pipeline (IG Saver + Agente Scraper + Agente Central)
+- Genix Academy (cursos de IA para negocios)
+- Claude Cowork / Live Artifacts (guías y material educativo)
+
+**Acciones urgentes esta semana:**
+1. Pagar Contabo VPS (vence en ~10 días)
+2. Restringir API key de Gemini (deadline: 19 jun 2026)
+3. Revisar certificados Google Cloud (deadline: 15 jun 2026)
+
+**Metodología del vault:** PARA
