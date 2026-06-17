@@ -1,33 +1,133 @@
 ---
 type: meta
-title: "Wiki Index"
-updated: 2026-04-07
+title: "Wiki Index — Centro de Mandos"
+updated: 2026-06-08
 tags:
   - meta
   - index
+  - para
+  - segundo-cerebro
 status: evergreen
 related:
   - "[[overview]]"
   - "[[log]]"
   - "[[hot]]"
-  - "[[dashboard]]"
-  - "[[Wiki Map]]"
-  - "[[concepts/_index]]"
-  - "[[entities/_index]]"
-  - "[[sources/_index]]"
-  - "[[LLM Wiki Pattern]]"
-  - "[[Hot Cache]]"
-  - "[[Compounding Knowledge]]"
-  - "[[Andrej Karpathy]]"
+  - "[[SocialDrop - Hub]]"
+  - "[[El Sabueso - Hub]]"
+  - "[[Automatizacion Ventas - Hub]]"
+  - "[[Club AI Marketing - Hub]]"
+  - "[[Genix Academy - Hub]]"
 ---
 
-# Wiki Index
+# Centro de Mandos — Segundo Cerebro
 
-Last updated: 2026-04-15 | Total pages: 34 | Sources ingested: 2
+> Vault organizado bajo metodología **PARA**. Ecosistema de automatización de marketing con IA. Actualizado: 2026-06-08.
 
-Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
+Navigation: [[overview]] | [[log]] | [[hot]] | [[Wiki Map]] | [[getting-started]]
 
 ---
+
+## Estado del Ecosistema
+
+| Sistema | Estado | Hub |
+|---------|--------|-----|
+| SocialDrop | Activo | [[SocialDrop - Hub]] |
+| El Sabueso | Activo | [[El Sabueso - Hub]] |
+| Automatización Ventas | Activo | [[Automatizacion Ventas - Hub]] |
+| Genix Academy | En documentación | [[Genix Academy - Hub]] |
+| Club AI Marketing | Activo | [[Club AI Marketing - Hub]] |
+
+---
+
+## P — PROYECTOS
+
+### Ecosistema SocialDrop
+
+- [[SocialDrop - Hub]] — Centro de operaciones del sistema de contenido autónomo
+  - [[Arquitectura SocialDrop]] — Diseño técnico de las 5 capas
+  - [[Pipeline de Publicacion]] — Flujo de publicación automatizada
+
+### El Sabueso (Cazador Viral)
+
+- [[El Sabueso - Hub]] — Sistema de descubrimiento de contenido viral (`/viral:discover`)
+  - [[Sistema de Scoring Viral]] — Fórmula y tablas de puntuación multidimensional
+  - [[Integracion Notion Apify]] — Flujo técnico Apify → Notion via Make
+  - [[Patrones de Clasificacion Viral]] — 7 arquetipos con señales y tasas de replicación
+
+### Automatización de Ventas
+
+- [[Automatizacion Ventas - Hub]] — Hub del sistema OBS → AssemblyAI → WhatsApp
+  - [[Flujo OBS AssemblyAI WhatsApp]] — Diagrama técnico completo paso a paso
+  - [[Motor de Transcripcion AssemblyAI]] — Configuración, diarización y análisis
+  - [[Pipeline Propuestas WhatsApp]] — Estructura, personalización y secuencias
+
+### Consultoría — Casos de Éxito
+
+- [[Casos de Exito - Index]] — Índice completo de implementaciones
+- [[Genix Academy - Hub]] — Automatización de leads para academia online
+  - [[Estrategia Automatizacion Leads Genix]] — Estrategia completa + Make scenarios
+  - [[Resultados Genix Academy]] — Métricas y aprendizajes
+
+---
+
+## A — ÁREAS
+
+### Club AI Marketing Automation (Skool)
+
+- [[Club AI Marketing - Hub]] — Hub de la comunidad
+  - [[Hoja de Ruta Club AI Marketing]] — Roadmap de 5 fases a 12 meses
+  - [[Estructura de Conocimiento del Club]] — Currículum completo de 5 pilares
+
+---
+
+## R — RECURSOS
+
+- [[Stack Tecnologico SocialDrop]] — Inventario completo de herramientas y planes
+- [[Arquitectura SocialDrop]] — Decisiones de diseño del ecosistema
+
+### Pendientes de crear
+
+- [[Plantillas de Caption]] — Templates por plataforma y nicho
+- [[Prompts Motor Adaptacion]] — Prompts validados para adaptación de contenido
+- [[Plantilla Sistema de Leads Academias]] — Template replicable del caso Genix
+- [[Registro de Formatos Virales]] — Tracking de formatos y su ciclo de vida
+
+---
+
+## A — ARCHIVO
+
+*(Proyectos completados o pausados — mover aquí cuando corresponda)*
+
+---
+
+## Mapa de Conexiones
+
+```
+SocialDrop ←── El Sabueso (Apify + Notion)
+    └── Pipeline Publicación
+    └── Motor Adaptación IA
+
+Automatización Ventas ←── OBS ── AssemblyAI ── WhatsApp
+    └── Genix Academy (caso implementado)
+
+Club AI Marketing ← enseña todo el ecosistema
+```
+
+---
+
+## Comandos Rápidos
+
+| Necesito... | Ir a... |
+|-------------|---------|
+| Ver contenidos virales | [[El Sabueso - Hub]] |
+| Revisar pipeline de ventas | [[Pipeline Propuestas WhatsApp]] |
+| Ver roadmap del Club | [[Hoja de Ruta Club AI Marketing]] |
+| Documentar nuevo caso | [[Casos de Exito - Index]] |
+| Troubleshooting técnico | [[Stack Tecnologico SocialDrop]] |
+
+---
+
+## Conceptos del Sistema Base (claude-obsidian)
 
 ## Concepts
 

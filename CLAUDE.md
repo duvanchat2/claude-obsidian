@@ -3,7 +3,7 @@
 This folder is both a Claude Code plugin and an Obsidian vault.
 
 **Plugin name:** `claude-obsidian` (v1.7+ "Compound Vault" — see [docs/compound-vault-guide.md](docs/compound-vault-guide.md); v1.8+ adds methodology modes — see [docs/methodology-modes-guide.md](docs/methodology-modes-guide.md))
-**Skills:** `/wiki`, `/wiki-ingest`, `/wiki-query`, `/wiki-lint`, `/wiki-cli` (v1.7), `/wiki-retrieve` (v1.7, opt-in), `/wiki-mode` (v1.8)
+**Skills:** `/wiki`, `/wiki-ingest`, `/wiki-query`, `/wiki-lint`, `/wiki-cli` (v1.7), `/wiki-retrieve` (v1.7, opt-in), `/wiki-mode` (v1.8), `/cowork-dump` (custom)
 **Vault path:** This directory (open in Obsidian directly)
 
 ## What This Vault Is For
@@ -55,6 +55,7 @@ Do NOT read the wiki for general coding questions or things already in this proj
 | `query: [question]` | Answer from wiki content |
 | `lint the wiki` | Health check |
 | `/save` | File the current conversation as a structured wiki note |
+| `/cowork-dump` | Vuelca sesión completa de Cowork al wiki bajo metodología PARA |
 | `/autoresearch [topic]` | Autonomous research loop: search, fetch, synthesize, file |
 | `/canvas` | Visual layer: add images, PDFs, notes to Obsidian canvas |
 | `/wiki-cli` (v1.7) | Obsidian CLI transport wrapper; default mutation path on desktop |
