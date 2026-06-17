@@ -47,9 +47,13 @@ Se creó `.claude/settings.json` con permisos base para que las skills del vault
 
 ### Sobre el skill /save
 
-El skill `/save` está definido en `skills/save/SKILL.md` y Claude Code lo carga automáticamente desde la carpeta `skills/` del proyecto. No requiere registro manual.
+El skill `/save` del vault (`skills/save/SKILL.md`) documenta el workflow. Para que funcione como comando invocable en Claude Code on the web (Cowork), el skill debe estar registrado en `~/.claude/skills/save/SKILL.md` — el directorio de skills del harness del usuario.
 
-En Claude Code on the web, `/save` es un workflow que Claude ejecuta directamente al leer el SKILL.md — no un comando binario. Para usarlo: escribir `/save` en cualquier sesión con este proyecto como directorio de trabajo activo.
+**Solución final:**
+```
+~/.claude/skills/save/SKILL.md
+```
+Este archivo contiene el mismo workflow adaptado para el harness. Una vez creado, `/save` aparece en el sistema de skills del harness y Claude lo invoca automáticamente cuando detecta los triggers ("guarda esto", "/save", "archiva esta conversación", etc.).
 
 ## Prompt para exportar contexto a Obsidian
 

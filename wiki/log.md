@@ -15,6 +15,11 @@ related:
 
 # Operation Log
 
+## [2026-06-17] save | Registro skill /save en harness Claude Code on the web
+- Type: decision
+- Location: wiki/meta/2026-06-17-instalacion-windows-save-setup.md
+- From: skill /save registrado en ~/.claude/skills/save/SKILL.md y verificado funcional
+
 ## [2026-06-17] save | Instalación Windows + configuración /save
 - Type: session
 - Location: wiki/meta/2026-06-17-instalacion-windows-save-setup.md
