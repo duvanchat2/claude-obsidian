@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(wiki/**)",
+      "Write(wiki/**)",
+      "Edit(wiki/**)",
+      "Read(.raw/**)",
+      "Read(skills/**)",
+      "Bash(bash scripts/*)",
+      "Bash(python3 scripts/*)"
+    ]
+  }
+}
